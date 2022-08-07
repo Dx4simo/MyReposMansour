@@ -926,7 +926,7 @@ class MessengerScreenV1 extends StatelessWidget {
                                    Expanded(
                                      child:
                                      Text(
-                                       'Hello!, where have u been!.. I didn\'t see u for a long timeghgghghghghghghgh',
+                                       'Hello!, where have u been!.. I didn\'t see u for a long timeghgghghghghghghghg',
                                        maxLines: 2,
                                        overflow: TextOverflow.ellipsis,
                                      ),
