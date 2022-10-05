@@ -1,6 +1,6 @@
 List<Widget> getList(List<Number> numbers) {
   List<Widget> itemsList = [];
-  for(i = 0; i < numbers.length; i++){
+  for(int i = 0; i < numbers.length; i++){
     itemsList.add(Item(number: numbers[i])); 
   }
   return itemsList;
